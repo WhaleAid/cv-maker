@@ -5,7 +5,7 @@ env:
   VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
   NAME: "John Doe"
 
-# When does this workflow run
+# When does this workflow run 
 on:
   push:
 
